@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 520" role="img" aria-label="Mondstadt">
+  <rect width="800" height="520" fill="#8ec6e6"/>
+  <circle cx="640" cy="90" r="46" fill="#f6e27a"/>
+  <path d="M0 360l120-90 90 50 140-120 110 70 160-130 180 110v270H0z" fill="#7ea36b"/>
+  <rect x="330" y="180" width="70" height="180" fill="#f3efe6"/>
+  <polygon points="365,70 400,180 330,180" fill="#d4534a"/>
+  <rect x="250" y="250" width="230" height="110" fill="#efe6d4"/>
+  <rect x="200" y="300" width="80" height="80" fill="#e4d3b4"/>
+  <rect x="450" y="290" width="90" height="90" fill="#e4d3b4"/>
+  <path d="M365 70c40 10 30 40 10 50" fill="none" stroke="#f4f7fb" stroke-width="4"/>
+</svg>

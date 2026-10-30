@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="Lecture">
+  <rect width="800" height="500" fill="#1e2a36"/>
+  <rect x="70" y="60" width="500" height="300" fill="#f4efe4"/>
+  <path d="M110 300c60-80 140-40 190-110 40 70 90 40 150-20" fill="none" stroke="#284b63" stroke-width="8"/>
+  <circle cx="250" cy="170" r="28" fill="#84a59d"/>
+  <rect x="600" y="250" width="70" height="160" fill="#c4a574"/>
+  <circle cx="635" cy="180" r="46" fill="#e7c8a4"/>
+  <path d="M590 230c20-40 70-40 90 0v40h-90z" fill="#d8d8d8"/>
+  <rect x="40" y="400" width="720" height="16" fill="#8d6b45"/>
+</svg>
